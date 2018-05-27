@@ -1,0 +1,24 @@
+[submodule ".vim/bundle/vim-pathogen"]
+	path = .vim/bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen
+[submodule ".vim/bundle/golden-ratio"]
+	path = .vim/bundle/golden-ratio
+	url = https://github.com/roman/golden-ratio
+[submodule ".vim/bundle/vim-javascript"]
+	path = .vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
+[submodule ".vim/bundle/xml.vim"]
+	path = .vim/bundle/xml.vim
+	url = https://github.com/othree/xml.vim
+[submodule ".vim/bundle/vim-jsbeautify"]
+	path = .vim/bundle/vim-jsbeautify
+	url = https://github.com/maksimr/vim-jsbeautify
+[submodule "Omnisharp-vim"]
+	path = Omnisharp-vim
+	url = https://github.com/OmniSharp/Omnisharp-vim
+[submodule "vim/bundle/Omnisharp-vim"]
+	path = vim/bundle/Omnisharp-vim
+	url = https://github.com/OmniSharp/Omnisharp-vim
+[submodule ".vim/bundle/Omnisharp-vim"]
+	path = .vim/bundle/Omnisharp-vim
+	url = https://github.com/OmniSharp/Omnisharp-vim
